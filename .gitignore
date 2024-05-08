@@ -1,0 +1,6 @@
+*.png
+*.class
+bin/
+target/
+test-output/
+/.metadata/
