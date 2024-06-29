@@ -79,25 +79,26 @@ public class HybridVehicle extends ElectricVehicle implements IA , IB{
 	System.out.println("This is method A1");
 		
 	}
-	@Override
-	public void methodB2() {
-		System.out.println("This is method B2");
-		
-	}
+	
+	
 	@Override
 	public void methodC3() {
 	System.out.println("This is method C3");
 		
 	}
 	@Override
-	public void methodD4() {
-			System.out.println("This is method D4");
+	public void methodE5() {
+		// TODO Auto-generated method stub
 		
 	}
 	@Override
-	public void methodE5() {
-		System.out.println("This is method E5");
-		
+	public int methodB2() {
+		// TODO Auto-generated method stub
+		return 0;
 	}
+	
+		
+	
+	}
+	
 
-}
